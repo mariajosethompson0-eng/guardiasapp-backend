@@ -1,0 +1,1 @@
+export class UsuariosM3 {}
